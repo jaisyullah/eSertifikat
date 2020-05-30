@@ -1,5 +1,5 @@
 # eSertifikat
-Sistem Digital Sertifikat via Email dan Cetak Online
+Sistem Digital Sertifikat via Email dan Cetak Online seperti Autocrat / Mail Merge
 
 Bertujuan memudahkan cetak dan kirim sertifikat berbasiskan online
 
