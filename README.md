@@ -11,6 +11,10 @@ Screens
 
 ![Tampilan Cetak](https://raw.githubusercontent.com/jaisyullah/eSertifikat/master/Screenshot%202.png)
 
+Video Penggunaan
+
+[![Panduan](https://i.ytimg.com/vi/PVAMdXBvIys/hqdefault.jpg)](https://www.youtube.com/watch?v=PVAMdXBvIys "Video Title")
+
 Instruksi Penggunaan
 
 - Import database ke mysql Anda
