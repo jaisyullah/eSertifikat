@@ -1,0 +1,105 @@
+.scFormToastDivFixed.bl {
+    bottom: -200px;
+    right: auto;
+    top: auto;
+    left: 15px;
+}
+.scFormToastDivFixed.bc {
+    bottom: -200px;
+    right: auto;
+    top: auto;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.scFormToastDivFixed.br {
+    bottom: -200px;
+    right: 15px;
+    top: auto;
+    left: auto;
+}
+.scFormToastDivFixed.tl {
+    top: -200px;
+    right: auto;
+    bottom: auto;
+    left: 15px;
+}
+.scFormToastDivFixed.tc {
+    top: -200px;
+    right: auto;
+    bottom: auto;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.scFormToastDivFixed.tr {
+    top: -200px;
+    right: 15px;
+    bottom: auto;
+    left: auto;
+}
+.scFormToastDivFixed.bl.active {
+    bottom: 15px;
+    opacity: 1;
+}
+.scFormToastDivFixed.bc.active {
+    bottom: 15px;
+    opacity: 1;
+}
+.scFormToastDivFixed.br.active {
+    bottom: 15px;
+    opacity: 1;
+}
+.scFormToastDivFixed.tl.active {
+    top: 15px;
+    opacity: 1;
+}
+.scFormToastDivFixed.tc.active {
+    top: 15px;
+    opacity: 1;
+}
+.scFormToastDivFixed.tr.active {
+    top: 15px;
+    opacity: 1;
+}
+.scFormToastDivFixed {
+    position: fixed;
+    z-index: 100000;
+    opacity: 0;
+    transition: all ease .8s;
+}
+.scFormToastTable {
+    display: flex;
+    height: auto !important;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+}
+.scFormToastTable > div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.scFormToastTable > div.scFormToastWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-grow: 1;
+}
+.scFormToastTitle, .scFormToastMessage {
+    padding: 0px 20px;
+}
+
+.scFormErrorTable {
+    width: auto !important;
+}
+.scFormErrorTable td:first-child {
+    max-width: 120px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.scFormErrorTable {
+    width: auto !important;
+}

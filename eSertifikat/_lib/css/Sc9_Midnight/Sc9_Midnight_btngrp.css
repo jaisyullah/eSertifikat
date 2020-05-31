@@ -1,0 +1,7 @@
+.SC_SubMenuApp .scBtnGrpBackground { background-color: #37404a; border-color: #464f5b; border-style: none; border-width: 0; border-collapse: collapse; padding: 0; z-index: 99999; text-align: left }
+.SC_SubMenuApp .scBtnGrpText { background-color: #37404a; padding: 6px 52px 6px 15px; cursor: pointer; white-space: nowrap; color: #aab8c5 }
+.SC_SubMenuApp .scBtnGrpTextOver { background-color: #2E353E }
+.SC_SubMenuApp .scBtnGrpLink { color: #aab8c5; font-family: Leelawadee, Ebrima, 'Bahnschrift Light', Gadugi, 'Nirmala UI', 'Segoe UI', Verdana; font-size: 13px; text-shadow: 12px; text-decoration: none }
+.SC_SubMenuButton .scBtnGrpBackground { text-align: left }
+.SC_SubMenuButton { z-index: 1000 }
+.SC_SubMenuApp { z-index: 1000 }
