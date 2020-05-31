@@ -13,7 +13,7 @@ Screens
 
 Video Penggunaan
 
-[![Panduan](https://i.ytimg.com/vi/PVAMdXBvIys/hqdefault.jpg)](https://www.youtube.com/watch?v=PVAMdXBvIys "Video Title")
+[![Panduan](https://i9.ytimg.com/vi/PVAMdXBvIys/maxresdefault.jpg?time=1590924763267&sqp=CLiqzvYF&rs=AOn4CLBxPVigzlRFV6XDMVr_aEQVyx43Gw)](https://www.youtube.com/watch?v=PVAMdXBvIys "Video Title")
 
 Instruksi Penggunaan
 
