@@ -13,7 +13,7 @@ Screens
 
 Video Penggunaan (YouTube)
 
-[![Panduan](https://i9.ytimg.com/vi/PVAMdXBvIys/maxresdefault.jpg?time=1590924763267&sqp=CLiqzvYF&rs=AOn4CLBxPVigzlRFV6XDMVr_aEQVyx43Gw)](https://www.youtube.com/watch?v=PVAMdXBvIys "Video YouTube")
+[![Panduan](https://www.chimedigital.com/wp-content/uploads/2015/12/YouTube-Play-Button-940x553.png)](https://www.youtube.com/watch?v=PVAMdXBvIys "Video YouTube")
 
 Instruksi Penggunaan
 
