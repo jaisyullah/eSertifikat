@@ -23,4 +23,8 @@ Instruksi Penggunaan
 - Sesuaikan koneksi dengan database pada server, user dan juga sandi database Anda
 - Selamat menggunakan
 
+Note :
+- Untuk menyesuaikan konfigurasi SMTP Anda edit file eSertifikat/form_data/form_data_apl.php pada line 1828-1840 ubah sesuaikan dengan konfigurasi Email Anda
+- Lalu edit file eSertifikat/kirim_serfitikat/index.php pada line 2166-2178 ubah sesuaikan juga dengan konfigurasi Email Anda
+
 Bangga Produk Indonesia
